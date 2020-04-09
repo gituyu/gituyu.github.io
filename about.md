@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Hi, I'm Gituyu Mwangi. Humbly a student with hands and heart at Backend Development(PHP,<a href="https://golang.org/">GoLang</a>,<a href="https://www.perl.org/">Perl</a>,*SQL,<a href="https://redis.io/">Redis</a>,<a href="https://freeradius.org/">RADIUS</a>),Cyber-Security and Entrepreneurship.
